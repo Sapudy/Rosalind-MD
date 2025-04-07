@@ -33,26 +33,26 @@ const readMore = more.repeat(4001)
 
 /// Setting Dari Sini
 global.owner = [
-  ['6281282405626', 'Clayza Aubert', true],
+  ['6281217222953', 'Sapudy', true],
 ]
 global.mods = []
-global.prems = []
-global.nomorbot = '6283872069306'
-global.nomorown = '6281282405626'
+global.prems = ['6281217222953']
+global.nomorbot = '6281226889408'
+global.nomorown = '6281217222953'
 global.nomorown1 = '6281282405626'
 global.nomorown2 = '6281282405626'
-global.nomorwa = '6281282405626'
+global.nomorwa = '6281217222953'
 global.readMore = readMore
-global.author = 'Clara | Clayza | Amelia'
-global.namebot = '​Victoria Rosalind'
-global.wm = '©Victoria Rosalind By Aubert'
+global.author = 'Sapudy'
+global.namebot = 'Sagiri'
+global.wm = '©Sagiri By Sapudy'
 global.watermark = wm
-global.wm2 = '©Victoria Rosalind By Aubert'
+global.wm2 = '©Sagiri By Sapudy'
 global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.bottime = `Time: ${wktuwib}`
-global.titlebot = `​Victoria Rosalind`
-global.stickpack = '​©Victoria Rosalind'
-global.stickauth = `By Aubert`
+global.titlebot = `​Sagiri`
+global.stickpack = '​©Sagiri'
+global.stickauth = `By Sapudy`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 global.nameown1 = 'Clayza Aubert' // Optional
