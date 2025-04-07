@@ -74,7 +74,7 @@ global.povo = '081282405626' // Ovo
 global.pgopay = '081282405626' // Gopay
 
 /// Api keys
-global.clayza = '' // https://api.clayzaaubert.my.id
+global.clayza = 'Btz-cMFb5' // https://api.clayzaaubert.my.id
 
 /// TEXT
 global.stiker_wait = '_Sedang Di Proses, Mohon Tunggu_.....'
